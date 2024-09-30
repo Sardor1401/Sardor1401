@@ -1,4 +1,5 @@
-## Hi,I'm Sardor Xujamurdoov 👋
+## Hi,I'm Sardor Xujamurdoov 👋 <br>
+I like to travel.
 
 <!--
 **Sardor1401/Sardor1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
