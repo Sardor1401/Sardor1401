@@ -1,6 +1,7 @@
-## Hi,I'm Sardor Xujamurdoov 👋 <br>
+## Hi,I'm Sardor Xujamurdov 👋 <br>
 I like to travel. <br>
-<a href="https://t.me/tuitkf_1401"> Telegram <a/>
+<a href="https://t.me/tuitkf_1401"> Telegram  <a/> <br>
+<a href="https://t.me/sardor_14_01"> Telegram 2 <a/>
 
 <!--
 **Sardor1401/Sardor1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
